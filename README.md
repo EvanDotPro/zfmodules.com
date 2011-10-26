@@ -1,12 +1,3 @@
-modules.zendframework.com
-=============
-Version 0.0.1
-
-Introduction
-------------
-This site will eventually be a community site for publishing and sharing Zend Framework modules.
-
-Deployment
-----------
-The production branch of this repository is automatically deployed live to
-zfmodules.com every 10 minutes.
+This Project Has Moved! 
+-----------------------
+This project has been moved to [zendframework/modules.zendframework.com](https://github.com/zendframework/modules.zendframework.com)
